@@ -1,0 +1,7 @@
+C:\Users\UltraBook\Desktop\info\POO\7\SortareLocalizata\SortareLocalizata\obj\Debug\SortareLocalizata.csprojAssemblyReference.cache
+C:\Users\UltraBook\Desktop\info\POO\7\SortareLocalizata\SortareLocalizata\obj\Debug\SortareLocalizata.csproj.CoreCompileInputs.cache
+C:\Users\UltraBook\Desktop\info\POO\7\SortareLocalizata\SortareLocalizata\bin\Debug\SortareLocalizata.exe.config
+C:\Users\UltraBook\Desktop\info\POO\7\SortareLocalizata\SortareLocalizata\bin\Debug\SortareLocalizata.exe
+C:\Users\UltraBook\Desktop\info\POO\7\SortareLocalizata\SortareLocalizata\bin\Debug\SortareLocalizata.pdb
+C:\Users\UltraBook\Desktop\info\POO\7\SortareLocalizata\SortareLocalizata\obj\Debug\SortareLocalizata.exe
+C:\Users\UltraBook\Desktop\info\POO\7\SortareLocalizata\SortareLocalizata\obj\Debug\SortareLocalizata.pdb
