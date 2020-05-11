@@ -12,6 +12,10 @@
             this.nationalitate = nationalitate;
 
         }
-
+        public static string Capital(string capital)
+        {
+            capital.ToUpper();
+            return capital;
+        }
     }
 }

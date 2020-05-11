@@ -22,7 +22,7 @@ namespace SortareLocalizata
                     Lista.Add(persona);
                 }
                 Lista.Sort(delegate (Persoane x, Persoane y)
-                { 
+                {
                     int a = x.nationalitate.CompareTo(y.nationalitate);
                     a = x.prenume.CompareTo(y.prenume);
                     a = x.nume.CompareTo(y.nume);
